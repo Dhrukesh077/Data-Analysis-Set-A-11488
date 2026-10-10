@@ -1,0 +1,4 @@
+hub,delivery_count,delayed_count,total_delay_days,delay_incidence_rate
+Mumbai,4,3,15,75.00
+Delhi,4,3,14,75.00
+Chennai,4,3,5,75.00

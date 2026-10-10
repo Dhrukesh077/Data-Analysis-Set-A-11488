@@ -1,0 +1,3 @@
+service_type,delivery_count,delayed_count,total_delay_days,delay_incidence_rate
+Standard,6,5,22,83.33
+Express,6,4,12,66.67

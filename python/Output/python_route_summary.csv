@@ -1,0 +1,5 @@
+route_id,route,service_type,delivery_count,delayed_count,total_delay_days,delay_incidence_rate,share_of_total_delay_pct
+R4,Rural Feeder,Standard,3,3,14,100.00,41.18
+R1,Metro Link,Express,3,2,9,66.67,26.47
+R3,Highway Freight,Standard,3,2,8,66.67,23.53
+R2,City Dash,Express,3,2,3,66.67,8.82
